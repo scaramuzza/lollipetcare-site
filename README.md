@@ -1,18 +1,18 @@
 # lollipetcare-site
 
-Website de empresa que fabrica e comercializa cadeiras para residências e escritórios. O projeto envolve a aplicação das técnicas *grid* e *flex* do CSS, além de um HTML *semântico*;
+Website de empresa que presta serviço de atendimento veterinário em domicílio. O projeto, envolve a aplicação de técnicas *grid* e *flex* do CSS, além de um HTML *semântico*. O sistema foi projetado para ser responsivo (*media queries*), selecionar *breakpoints* e apresentar uma *sticky navigation bar* em tablets e celulares. Por fim, conseguimos alcançar um alto desempenho nos testes com o Lighthouse;
+
+Endereço na web: www.lollipetcare.com
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## license
 
-Este código tem o objetivo único de mostrar ao mercado minha evolução como desenvolvedor de software, logo, <b>NÃO</b> é permitido a comercialização, modificação, distribuição e uso privado;
+Por ser um projeto comercializado e monetizado com a empresa contratante, o código não foi disponibilizado no GitHub. Optei por colocar somente as imagens e o endereço na web como forma de divulgação de portfólio. A propriedade intelectual e o direito de uso são reservados;
 
 ## keywords
 
-HTML => fonts, googleaplis, header, section, figure, footer, div, img, svg, blockquote, strong, href, ul, li, class;
-
-CSS => box-sizing: border-box, letter-spacing, display: grid, grid-template-columns, link, visited, hover, active, align-self, border-radius, box-shadow, stroke, fill;
+JS => querySelector, new Date(), getFullYear(), textContent, addEventListener, classList, toggle, function, getAttribute, scrollTo, smooth, scrollIntoView;
 
 ## preview-desktop
 
