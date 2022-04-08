@@ -14,6 +14,10 @@ HTML => fonts, googleaplis, header, section, figure, footer, div, img, svg, bloc
 
 CSS => box-sizing: border-box, letter-spacing, display: grid, grid-template-columns, link, visited, hover, active, align-self, border-radius, box-shadow, stroke, fill;
 
-## preview
+## preview-desktop
 
-![preview](https://github.com/scaramuzza/lisbon-chair-shop/blob/main/lisbon-chair-shop.png)
+![preview](https://github.com/scaramuzza/lollipetcare-site/blob/main/lollipetcare-site-desktop.png)
+
+## preview-mobile
+
+![preview](https://github.com/scaramuzza/lollipetcare-site/blob/main/lollipetcare-site-mobile.png)
