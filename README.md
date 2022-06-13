@@ -2,7 +2,7 @@
 
 Website de empresa que presta serviço de atendimento veterinário em domicílio. O projeto, envolve a aplicação de técnicas *grid* e *flex* do CSS, além de um HTML *semântico*. O sistema foi projetado para ser responsivo (*media queries*), selecionar *breakpoints* e apresentar uma *sticky navigation bar* em tablets e celulares. Por fim, conseguimos alcançar um alto desempenho nos testes com o Lighthouse;
 
-Endereço na web: http://www.lollipetcare.com
+Endereço na web: https://www.lollipetcare.app
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
