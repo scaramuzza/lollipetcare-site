@@ -1,4 +1,4 @@
-# lollipetcare-siteas
+# lollipetcare-site
 
 Website de empresa que presta serviço de atendimento veterinário em domicílio. O projeto, envolve a aplicação de técnicas *grid* e *flex* do CSS, além de um HTML *semântico*. O sistema foi projetado para ser responsivo (*media queries*), selecionar *breakpoints* e apresentar uma *sticky navigation bar* em tablets e celulares. Por fim, conseguimos alcançar um alto desempenho nos testes com o Lighthouse;
 
